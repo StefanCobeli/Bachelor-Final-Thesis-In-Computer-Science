@@ -1,0 +1,106 @@
+Tutorials:
+
+3. Develop Your First Neural Network in Python With Keras Step-By-Step:
+http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+4.
+http://deeplearning.net/tutorial/gettingstarted.html#index-0
+
+Courses and Research groups:
+1. http://vision.stanford.edu/
+2. Convolutional Neural Networks for Visual Recognition:
+http://cs231n.github.io/
+3. MIT 12. Learning: Neural Nets, Back Propagation:
+https://www.youtube.com/watch?v=q0pm3BrIUFo
+
+
+
+Books:
+
+1. Raul Rojas Neural Networks Book with important Backpropagation chapter:
+https://page.mi.fu-berlin.de/rojas/neural/
+2. Efficent BackProp
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+
+
+Articles:
+
+0. Distributed neural networks (solved hat problem article):
+https://arxiv.org/pdf/1602.02672.pdf
+1. Build simple neural network in python:
+https://medium.com/technology-invention-and-more/how-to-build-a-multi-layered-neural-network-in-python-53ec3d1d326a
+https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1#.8wnabb1et
+2. Xor Neural Network with one hidden layer in Python:
+http://www.bogotobogo.com/python/python_Neural_Networks_Backpropagation_for_XOR_using_one_hidden_layer.php
+3. Find a position from an array with 3 components:
+http://iamtrask.github.io/2015/07/12/basic-python-network/
+4. A Neural Network in 11 lines of Python (Part 1):
+https://iamtrask.github.io/2015/07/12/basic-python-network/
+(Part 2):
+http://iamtrask.github.io/2015/07/27/python-network-part2/
+
+
+Other then pure python:
+
+1. A Neural Network in 28 Lines of Theano:
+https://benjaminbolte.wordpress.com/2016/02/23/a-neural-network-in-22-lines-of-theano/
+
+
+Database Online Resources:
+ 
+1. http://image-net.org/
+
+
+Interesting to know (general knowledge):
+0.Deepmind website:
+https://deepmind.com/blog/differentiable-neural-computers/
+1.Computer Eyesight Gets a Lot More Accurate
+https://mobile.nytimes.com/blogs/bits/2014/08/18/computer-eyesight-gets-a-lot-more-accurate/?_php=true&_type=blogs&_r=1&referer=
+2.Andrew Ng says Deep learning is the "New Electricity"; what this means to your organization:
+http://www.fast.ai/2016/10/11/fortune/
+3. Large-Scale Deep Learning for Intelligent Computer Systems
+http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf
+4. JOBS FOR PHD STUDENTS & POSTDOCS 2016:  
+http://people.idsia.ch/~juergen/rnnai2016.html
+5. I am Jürgen Schmidhuber, AMA!:
+https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/
+6. Deep Learning Wins MICCAI 2013 Grand Challenge and ICPR 2012 Contest on Mitosis Detection
+http://people.idsia.ch/~juergen/deeplearningwinsMICCAIgrandchallenge.html
+7. Quadocopter Navigation in the Forest using Deep Neural Networks:
+http://people.idsia.ch/~ciresan/
+
+
+
+Explications:
+
+1. https://rolisz.ro/2013/04/18/neural-networks-in-python/
+2. http://karpathy.github.io/neuralnets/
+3. THE NATURE OF CODE BY DANIEL SHIFFMAN:
+http://natureofcode.com/book/chapter-10-neural-networks/
+4. Quora question with lots of answers:
+https://www.quora.com/How-do-I-implement-a-simple-neural-network-from-scratch-in-Python
+5. Calculus on Computational Graphs: Backpropagation:
+http://colah.github.io/posts/2015-08-Backprop/
+6. How the backpropagation algorithm works:
+http://neuralnetworksanddeeplearning.com/chap2.html
+7. Intuitive understanding of backpropagation:
+http://cs231n.github.io/optimization-2/
+
+
+Additional materials (other subjects):
+
+1. From the mail with subject "Problema" no-3-in-a-line problem:
+Martin Gardner's minimum no-3-in-a-line problem:
+https://en.wikipedia.org/wiki/No-three-in-line_problem
+http://mathworld.wolfram.com/No-Three-in-a-Line-Problem.html
+https://arxiv.org/abs/1206.5350
+Journal reference:      The American Mathematical Monthly, 121:3 (March,
+2014), pp. 213-221
+https://oeis.org/A000755/a000755_1.pdf
+https://www.google.com/search?q=no+3+in+line+problem&ie=UTF-8
+http://wwwhomes.uni-bielefeld.de/achim/no3in/readme.html
+
+2. From the mail with subject "Problema" shuffle problem:
+Articles in pdf format. Look in the attaches.
+
+3. A Century of Elliptic Curves (Joseph H. Silverman):
+https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=a8a972a65d&view=att&th=1572472d20103dc6&attid=0.1&disp=inline&realattid=file1&safe=1&zw&saddbat=ANGjdJ88wRSrCkOc3OV94R3OKDuvzl1BylH3GWsPazacLpLdj-9_VDmg5OIWT4rmW8DT1ZeGRX2nky8ZEny0Of8uApV0s8s4mYN9npt0QxoBsXgmBj5Gsv8Mu9rAQ-aANm5Io5wcO834O2FBCY9wfE3AIeCjrxJ10BKksaZXGwYQ-biw5aqlBb4_mKOasM_W3POXpwFUYjVhsgZyDaqBc1t-d1_wq8mfL25MF6-rC6zRMfp5TNJAG0-cRiIUdeI8xB4sbd8C9AsiwksEbcDRbn5s0vZbS1RurbNm7EEIYdEHHpS0zFz9ENaad7GWOABAAEODt8hX1MoevdAaFKgBbgbz03MYoh58WOaYf1djScnGo5gPmd9120XgpAdbQvru-LeXSKjhzuQ2rdDw-pTz1_NEN1hNEhvbiBM_mcNI_TNMjTQmo-uxDmOpSfE-dgzbfLH7ATWOwDcbKvG0Q_I63QLv1bZsUKlFG6iwUkbwNGjr4wk3G-pnl9-U2aX2OGOCIlfOubai7-TSPf1P18hrsyw5AfWWSF2vUSdfykuxR9JvlNWVhcHuQxSSjNHroJIvcC2i2J8T-5tc6pqeJw3d_I1xL3zCC5_Ej4DLcRfuWfJyxq7yLXAQJL_oh6ONoa5PEo82GESCEdZqrLep3Hb2Y_BbUd7NUfubkTQix3ClRA
